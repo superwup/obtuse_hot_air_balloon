@@ -1,12 +1,6 @@
-
-title: The Musings of Yefim Vedernikoff
-
-twitter_username: johndoe
-
-github_username: johndoe
-
+title: 'Another siteabout Pol Goasdoué '
+twitter_username: superwup
+github_username: superwup
 email: john@doe.com
-
-baseurl: "/obtuse_hot_air_balloon"
-
+baseurl: /obtuse_hot_air_balloon
 remote_theme: yefim/yefeme
